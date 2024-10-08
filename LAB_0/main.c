@@ -119,7 +119,7 @@ int compare(char *str1, char *str2)
 
     for (i=0; i<strlen(str1); i++) {
         if (tolower(str1[i]) != tolower(str2[i])) {
-            return 110;
+            return 10;
         }
     }
 
