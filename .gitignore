@@ -3,4 +3,3 @@ cmake-build-release/
 .idea/
 *.o
 *.exe
-CMakeLists.txt
