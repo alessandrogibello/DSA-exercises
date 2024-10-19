@@ -10,8 +10,8 @@ Exercise 01
 A first file stores a text with an undefined number of rows.
 Each row is shorter than 100 characters.
 A second file stores a list of words.
-Each word is shorter than 20 characters, and the number of words
-is at most equal to 100.
+Each word is shorter than 20 characters, and the number
+of words is at most equal to 100.
 
 Write a program that counts the number of times each word stored in the
 second file appears in the text stored in the first file.
